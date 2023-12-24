@@ -1,6 +1,6 @@
 # Pokedex Web Application
 
-## [Access the page](https://o2thur.github.io/taskNote/)
+## [Access the page](https://o2thur.github.io/pokedex/)
 
 ## Description
 
